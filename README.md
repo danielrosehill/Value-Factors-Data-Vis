@@ -4,10 +4,11 @@
 
  [![View on Streamlit](https://img.shields.io/badge/View_on-Streamlit-brightgreen)](https://valuefactorsddatavis.streamlit.app/)
 
- *Data source (as submodule)*
+## Data Source (Submodule)
+
  [![Value Factors Explorer](https://img.shields.io/badge/Value%20Factors%20Explorer-blue)](https://github.com/danielrosehill/Global-Value-Factors-Explorer)
 
-Welcome to the deployment repository for the **Streamlit app** that visualizes the value factors released by the International Foundation for Valuing Impacts (IFVI). This app provides an interactive interface for exploring these value factors, allowing users to filter by country and explore them by category.
+Welcome to the deployment repository for the **Streamlit app** that visualizes the value factors released by the [International Foundation for Valuing Impacts](https://ifvi.org) (IFVI). This app provides an interactive interface for exploring these value factors, allowing users to filter by country and explore them by category.
 
 ## Overview
 
