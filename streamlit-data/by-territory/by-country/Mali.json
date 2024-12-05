@@ -1,0 +1,3781 @@
+{
+    "territory": "Mali",
+    "data": [
+        {
+            "Category": "PM2.5",
+            "Location": "Urban",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_PM2.5_Urban_Primary Health",
+            "Value": "46,718.79"
+        },
+        {
+            "Category": "PM2.5",
+            "Location": "Peri-Urban",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_PM2.5_Peri-Urban_Primary Health",
+            "Value": "36,063.93"
+        },
+        {
+            "Category": "PM2.5",
+            "Location": "Rural",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_PM2.5_Rural_Primary Health",
+            "Value": "21,052.93"
+        },
+        {
+            "Category": "PM2.5",
+            "Location": "Transport",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_PM2.5_Transport_Primary Health",
+            "Value": "33,795.36"
+        },
+        {
+            "Category": "PM2.5",
+            "Location": "N/A for PM2.5",
+            "Impact": "Visibility",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_PM2.5_N/A for PM2.5_Visibility",
+            "Value": "0.89"
+        },
+        {
+            "Category": "SOx",
+            "Location": "Urban",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_SOx_Urban_Primary Health",
+            "Value": "14,503.09"
+        },
+        {
+            "Category": "SOx",
+            "Location": "Peri-Urban",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_SOx_Peri-Urban_Primary Health",
+            "Value": "13,631.75"
+        },
+        {
+            "Category": "SOx",
+            "Location": "Rural",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_SOx_Rural_Primary Health",
+            "Value": "7,046.31"
+        },
+        {
+            "Category": "SOx",
+            "Location": "Transport",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_SOx_Transport_Primary Health",
+            "Value": "11,435.27"
+        },
+        {
+            "Category": "SOx",
+            "Location": "N/A for SOx",
+            "Impact": "Visibility",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_SOx_N/A for SOx_Visibility",
+            "Value": "17.94"
+        },
+        {
+            "Category": "NH3",
+            "Location": "Urban",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_NH3_Urban_Primary Health",
+            "Value": "14,015.64"
+        },
+        {
+            "Category": "NH3",
+            "Location": "Peri-Urban",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_NH3_Peri-Urban_Primary Health",
+            "Value": "10,819.18"
+        },
+        {
+            "Category": "NH3",
+            "Location": "Rural",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_NH3_Rural_Primary Health",
+            "Value": "6,315.88"
+        },
+        {
+            "Category": "NH3",
+            "Location": "Transport",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_NH3_Transport_Primary Health",
+            "Value": "10,138.61"
+        },
+        {
+            "Category": "NH3",
+            "Location": "N/A for NH3",
+            "Impact": "Visibility",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_NH3_N/A for NH3_Visibility",
+            "Value": "0.27"
+        },
+        {
+            "Category": "PM10",
+            "Location": "Urban",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_PM10_Urban_Primary Health",
+            "Value": "277.18"
+        },
+        {
+            "Category": "PM10",
+            "Location": "Peri-Urban",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_PM10_Peri-Urban_Primary Health",
+            "Value": "242.24"
+        },
+        {
+            "Category": "PM10",
+            "Location": "Rural",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_PM10_Rural_Primary Health",
+            "Value": "125.92"
+        },
+        {
+            "Category": "PM10",
+            "Location": "Transport",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_PM10_Transport_Primary Health",
+            "Value": "206.98"
+        },
+        {
+            "Category": "PM10",
+            "Location": "N/A for PM10",
+            "Impact": "Visibility",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_PM10_N/A for PM10_Visibility",
+            "Value": "2.95"
+        },
+        {
+            "Category": "NOx",
+            "Location": "Urban",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_NOx_Urban_Primary Health",
+            "Value": "4,366.45"
+        },
+        {
+            "Category": "NOx",
+            "Location": "Peri-Urban",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_NOx_Peri-Urban_Primary Health",
+            "Value": "3,950.96"
+        },
+        {
+            "Category": "NOx",
+            "Location": "Rural",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_NOx_Rural_Primary Health",
+            "Value": "2,183.00"
+        },
+        {
+            "Category": "NOx",
+            "Location": "Transport",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_NOx_Transport_Primary Health",
+            "Value": "3,305.97"
+        },
+        {
+            "Category": "NOx",
+            "Location": "N/A for NOx",
+            "Impact": "Agriculture",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_NOx_N/A for NOx_Agriculture",
+            "Value": "1.34"
+        },
+        {
+            "Category": "NOx",
+            "Location": "N/A for NOx",
+            "Impact": "Visibility",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_NOx_N/A for NOx_Visibility",
+            "Value": "1.70"
+        },
+        {
+            "Category": "VOC",
+            "Location": "N/A for VOC",
+            "Impact": "Secondary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_VOC_N/A for VOC_Secondary Health",
+            "Value": "49.78"
+        },
+        {
+            "Category": "VOC",
+            "Location": "N/A for VOC",
+            "Impact": "Visibility",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_VOC_N/A for VOC_Visibility",
+            "Value": "0.36"
+        },
+        {
+            "Category": "VOC",
+            "Location": "N/A for VOC",
+            "Impact": "Agriculture",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_VOC_N/A for VOC_Agriculture",
+            "Value": "0.69"
+        },
+        {
+            "Category": "Wheat - conventional",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Use_Wheat - conventional_N/A for LULC_Lost Ecosystem Services",
+            "Value": "757.64"
+        },
+        {
+            "Category": "Vegetables, fruit, nuts - conventional",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Use_Vegetables, fruit, nuts - conventional_N/A for LULC_Lost Ecosystem Services",
+            "Value": "947.23"
+        },
+        {
+            "Category": "Cereals, grains - conventional",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Use_Cereals, grains - conventional_N/A for LULC_Lost Ecosystem Services",
+            "Value": "757.64"
+        },
+        {
+            "Category": "Oilseeds - conventional",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Use_Oilseeds - conventional_N/A for LULC_Lost Ecosystem Services",
+            "Value": "757.64"
+        },
+        {
+            "Category": "Sugarcane, sugarbeet - conventional",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Use_Sugarcane, sugarbeet - conventional_N/A for LULC_Lost Ecosystem Services",
+            "Value": "757.64"
+        },
+        {
+            "Category": "Plant-based fibers - conventional",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Use_Plant-based fibers - conventional_N/A for LULC_Lost Ecosystem Services",
+            "Value": "757.64"
+        },
+        {
+            "Category": "Other crops - conventional",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Use_Other crops - conventional_N/A for LULC_Lost Ecosystem Services",
+            "Value": "757.64"
+        },
+        {
+            "Category": "Other crops - organic",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Use_Other crops - organic_N/A for LULC_Lost Ecosystem Services",
+            "Value": "680.93"
+        },
+        {
+            "Category": "Other crops - sustainable",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Use_Other crops - sustainable_N/A for LULC_Lost Ecosystem Services",
+            "Value": "624.50"
+        },
+        {
+            "Category": "Bovine, sheep, goats, horses - conventional",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Use_Bovine, sheep, goats, horses - conventional_N/A for LULC_Lost Ecosystem Services",
+            "Value": "724.03"
+        },
+        {
+            "Category": "Bovine, sheep, goats, horses - organic",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Use_Bovine, sheep, goats, horses - organic_N/A for LULC_Lost Ecosystem Services",
+            "Value": "678.65"
+        },
+        {
+            "Category": "Bovine, sheep, goats, horses - sustainable",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Use_Bovine, sheep, goats, horses - sustainable_N/A for LULC_Lost Ecosystem Services",
+            "Value": "668.57"
+        },
+        {
+            "Category": "Cashmere - conventional",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Use_Cashmere - conventional_N/A for LULC_Lost Ecosystem Services",
+            "Value": "769.41"
+        },
+        {
+            "Category": "Cashmere - organic",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Use_Cashmere - organic_N/A for LULC_Lost Ecosystem Services",
+            "Value": "678.65"
+        },
+        {
+            "Category": "Cashmere - sustainable",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Use_Cashmere - sustainable_N/A for LULC_Lost Ecosystem Services",
+            "Value": "668.57"
+        },
+        {
+            "Category": "Forestry",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Use_Forestry_N/A for LULC_Lost Ecosystem Services",
+            "Value": "0.00"
+        },
+        {
+            "Category": "Paddy rice",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Use_Paddy rice_N/A for LULC_Lost Ecosystem Services",
+            "Value": "596.83"
+        },
+        {
+            "Category": "Paved",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Use_Paved_N/A for LULC_Lost Ecosystem Services",
+            "Value": "1,272.52"
+        },
+        {
+            "Category": "Wheat - conventional",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Conversion_Wheat - conventional_N/A for LULC_Lost Ecosystem Services",
+            "Value": "43,973.28"
+        },
+        {
+            "Category": "Vegetables, fruit, nuts - conventional",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Conversion_Vegetables, fruit, nuts - conventional_N/A for LULC_Lost Ecosystem Services",
+            "Value": "54,977.17"
+        },
+        {
+            "Category": "Cereals, grains - conventional",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Conversion_Cereals, grains - conventional_N/A for LULC_Lost Ecosystem Services",
+            "Value": "43,973.28"
+        },
+        {
+            "Category": "Oilseeds - conventional",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Conversion_Oilseeds - conventional_N/A for LULC_Lost Ecosystem Services",
+            "Value": "43,973.28"
+        },
+        {
+            "Category": "Sugarcane, sugarbeet - conventional",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Conversion_Sugarcane, sugarbeet - conventional_N/A for LULC_Lost Ecosystem Services",
+            "Value": "43,973.28"
+        },
+        {
+            "Category": "Plant-based fibers - conventional",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Conversion_Plant-based fibers - conventional_N/A for LULC_Lost Ecosystem Services",
+            "Value": "43,973.28"
+        },
+        {
+            "Category": "Other crops - conventional",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Conversion_Other crops - conventional_N/A for LULC_Lost Ecosystem Services",
+            "Value": "43,973.28"
+        },
+        {
+            "Category": "Other crops - organic",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Conversion_Other crops - organic_N/A for LULC_Lost Ecosystem Services",
+            "Value": "39,521.18"
+        },
+        {
+            "Category": "Other crops - sustainable",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Conversion_Other crops - sustainable_N/A for LULC_Lost Ecosystem Services",
+            "Value": "36,245.90"
+        },
+        {
+            "Category": "Bovine, sheep, goats, horses - conventional",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Conversion_Bovine, sheep, goats, horses - conventional_N/A for LULC_Lost Ecosystem Services",
+            "Value": "42,023.89"
+        },
+        {
+            "Category": "Bovine, sheep, goats, horses - organic",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Conversion_Bovine, sheep, goats, horses - organic_N/A for LULC_Lost Ecosystem Services",
+            "Value": "39,390.10"
+        },
+        {
+            "Category": "Bovine, sheep, goats, horses - sustainable",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Conversion_Bovine, sheep, goats, horses - sustainable_N/A for LULC_Lost Ecosystem Services",
+            "Value": "38,804.81"
+        },
+        {
+            "Category": "Cashmere - conventional",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Conversion_Cashmere - conventional_N/A for LULC_Lost Ecosystem Services",
+            "Value": "44,657.68"
+        },
+        {
+            "Category": "Cashmere - organic",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Conversion_Cashmere - organic_N/A for LULC_Lost Ecosystem Services",
+            "Value": "39,390.10"
+        },
+        {
+            "Category": "Cashmere - sustainable",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Conversion_Cashmere - sustainable_N/A for LULC_Lost Ecosystem Services",
+            "Value": "38,804.81"
+        },
+        {
+            "Category": "Forestry",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Conversion_Forestry_N/A for LULC_Lost Ecosystem Services",
+            "Value": "0.00"
+        },
+        {
+            "Category": "Paddy rice",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Conversion_Paddy rice_N/A for LULC_Lost Ecosystem Services",
+            "Value": "34,639.91"
+        },
+        {
+            "Category": "Paved",
+            "Location": "N/A for LULC",
+            "Impact": "Lost Ecosystem Services",
+            "Units": "/ha",
+            "Reference": "Land Conversion_Paved_N/A for LULC_Lost Ecosystem Services",
+            "Value": "73,856.63"
+        },
+        {
+            "Category": "Hazardous",
+            "Location": "Landfill",
+            "Impact": "Leachate",
+            "Units": "/kg",
+            "Reference": "Waste_Hazardous_Landfill_Leachate",
+            "Value": "23.31"
+        },
+        {
+            "Category": "Hazardous",
+            "Location": "Landfill",
+            "Impact": "Waste GHGs",
+            "Units": "/kg",
+            "Reference": "Waste_Hazardous_Landfill_Waste GHGs",
+            "Value": "136.54"
+        },
+        {
+            "Category": "Hazardous",
+            "Location": "Landfill",
+            "Impact": "Disamenity",
+            "Units": "/kg",
+            "Reference": "Waste_Hazardous_Landfill_Disamenity",
+            "Value": "48.07"
+        },
+        {
+            "Category": "Non-Hazardous",
+            "Location": "Landfill",
+            "Impact": "Leachate",
+            "Units": "/kg",
+            "Reference": "Waste_Non-Hazardous_Landfill_Leachate",
+            "Value": "0.39"
+        },
+        {
+            "Category": "Non-Hazardous",
+            "Location": "Landfill",
+            "Impact": "Waste GHGs",
+            "Units": "/kg",
+            "Reference": "Waste_Non-Hazardous_Landfill_Waste GHGs",
+            "Value": "136.54"
+        },
+        {
+            "Category": "Non-Hazardous",
+            "Location": "Landfill",
+            "Impact": "Disamenity",
+            "Units": "/kg",
+            "Reference": "Waste_Non-Hazardous_Landfill_Disamenity",
+            "Value": "48.07"
+        },
+        {
+            "Category": "Hazardous",
+            "Location": "Incineration",
+            "Impact": "Waste GHGs",
+            "Units": "/kg",
+            "Reference": "Waste_Hazardous_Incineration_Waste GHGs",
+            "Value": "386.36"
+        },
+        {
+            "Category": "Hazardous",
+            "Location": "Incineration",
+            "Impact": "Disamenity",
+            "Units": "/kg",
+            "Reference": "Waste_Hazardous_Incineration_Disamenity",
+            "Value": "3.01"
+        },
+        {
+            "Category": "Hazardous",
+            "Location": "Incineration",
+            "Impact": "Waste Air pollution",
+            "Units": "/kg",
+            "Reference": "Waste_Hazardous_Incineration_Waste Air pollution",
+            "Value": "6.3"
+        },
+        {
+            "Category": "Hazardous",
+            "Location": "Incineration",
+            "Impact": "Heavy metals and dioxins",
+            "Units": "/kg",
+            "Reference": "Waste_Hazardous_Incineration_Heavy metals and dioxins",
+            "Value": "4.93"
+        },
+        {
+            "Category": "Non-Hazardous",
+            "Location": "Incineration",
+            "Impact": "Waste GHGs",
+            "Units": "/kg",
+            "Reference": "Waste_Non-Hazardous_Incineration_Waste GHGs",
+            "Value": "124.02"
+        },
+        {
+            "Category": "Non-Hazardous",
+            "Location": "Incineration",
+            "Impact": "Disamenity",
+            "Units": "/kg",
+            "Reference": "Waste_Non-Hazardous_Incineration_Disamenity",
+            "Value": "3.01"
+        },
+        {
+            "Category": "Non-Hazardous",
+            "Location": "Incineration",
+            "Impact": "Waste Air pollution",
+            "Units": "/kg",
+            "Reference": "Waste_Non-Hazardous_Incineration_Waste Air pollution",
+            "Value": "6.3"
+        },
+        {
+            "Category": "Non-Hazardous",
+            "Location": "Incineration",
+            "Impact": "Heavy metals and dioxins",
+            "Units": "/kg",
+            "Reference": "Waste_Non-Hazardous_Incineration_Heavy metals and dioxins",
+            "Value": "4.93"
+        },
+        {
+            "Category": "Hazardous",
+            "Location": "Unspecified",
+            "Impact": "Leachate",
+            "Units": "/kg",
+            "Reference": "Waste_Hazardous_Unspecified_Leachate",
+            "Value": "0.0"
+        },
+        {
+            "Category": "Hazardous",
+            "Location": "Unspecified",
+            "Impact": "Waste Air pollution",
+            "Units": "/kg",
+            "Reference": "Waste_Hazardous_Unspecified_Waste Air pollution",
+            "Value": "6.3"
+        },
+        {
+            "Category": "Hazardous",
+            "Location": "Unspecified",
+            "Impact": "Heavy metals and dioxins",
+            "Units": "/kg",
+            "Reference": "Waste_Hazardous_Unspecified_Heavy metals and dioxins",
+            "Value": "4.93"
+        },
+        {
+            "Category": "Hazardous",
+            "Location": "Unspecified",
+            "Impact": "Disamenity",
+            "Units": "/kg",
+            "Reference": "Waste_Hazardous_Unspecified_Disamenity",
+            "Value": "3.01"
+        },
+        {
+            "Category": "Hazardous",
+            "Location": "Unspecified",
+            "Impact": "Waste GHGs",
+            "Units": "/kg",
+            "Reference": "Waste_Hazardous_Unspecified_Waste GHGs",
+            "Value": "386.36"
+        },
+        {
+            "Category": "Non-Hazardous",
+            "Location": "Unspecified",
+            "Impact": "Leachate",
+            "Units": "/kg",
+            "Reference": "Waste_Non-Hazardous_Unspecified_Leachate",
+            "Value": "0.39"
+        },
+        {
+            "Category": "Non-Hazardous",
+            "Location": "Unspecified",
+            "Impact": "Waste Air pollution",
+            "Units": "/kg",
+            "Reference": "Waste_Non-Hazardous_Unspecified_Waste Air pollution",
+            "Value": "0.0"
+        },
+        {
+            "Category": "Non-Hazardous",
+            "Location": "Unspecified",
+            "Impact": "Heavy metals and dioxins",
+            "Units": "/kg",
+            "Reference": "Waste_Non-Hazardous_Unspecified_Heavy metals and dioxins",
+            "Value": "0.0"
+        },
+        {
+            "Category": "Non-Hazardous",
+            "Location": "Unspecified",
+            "Impact": "Disamenity",
+            "Units": "/kg",
+            "Reference": "Waste_Non-Hazardous_Unspecified_Disamenity",
+            "Value": "48.07"
+        },
+        {
+            "Category": "Non-Hazardous",
+            "Location": "Unspecified",
+            "Impact": "Waste GHGs",
+            "Units": "/kg",
+            "Reference": "Waste_Non-Hazardous_Unspecified_Waste GHGs",
+            "Value": "136.54"
+        },
+        {
+            "Category": "N/A for WC",
+            "Location": "N/A for WC",
+            "Impact": "Malnutrition",
+            "Units": "/m3",
+            "Reference": "Water Consumption_N/A for WC_N/A for WC_Malnutrition",
+            "Value": 0.06
+        },
+        {
+            "Category": "N/A for WC",
+            "Location": "N/A for WC",
+            "Impact": "Water-borne disease",
+            "Units": "/m3",
+            "Reference": "Water Consumption_N/A for WC_N/A for WC_Water-borne disease",
+            "Value": 0.02
+        },
+        {
+            "Category": "N/A for WC",
+            "Location": "N/A for WC",
+            "Impact": "Resource cost",
+            "Units": "/m3",
+            "Reference": "Water Consumption_N/A for WC_N/A for WC_Resource cost",
+            "Value": 0.19
+        },
+        {
+            "Category": "N/A for WC",
+            "Location": "N/A for WC",
+            "Impact": "Ecosystem services",
+            "Units": "/m3",
+            "Reference": "Water Consumption_N/A for WC_N/A for WC_Ecosystem services",
+            "Value": 0.29
+        },
+        {
+            "Category": "Phosphorus",
+            "Location": "N/A for this Category",
+            "Impact": "Eutrophication",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Phosphorus_N/A for this Category_Eutrophication",
+            "Value": "83.7099"
+        },
+        {
+            "Category": "Nitrogen",
+            "Location": "N/A for this Category",
+            "Impact": "Eutrophication",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Nitrogen_N/A for this Category_Eutrophication",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Ag(I)",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Ag(I)_Freshwater_Health",
+            "Value": "20.0716"
+        },
+        {
+            "Category": "Ag(I)",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Ag(I)_Seawater_Health",
+            "Value": "0.7926"
+        },
+        {
+            "Category": "Ag(I)",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Ag(I)_Unspecified_Health",
+            "Value": "20.0716"
+        },
+        {
+            "Category": "As(III)",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_As(III)_Freshwater_Health",
+            "Value": "2,270.7626"
+        },
+        {
+            "Category": "As(III)",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_As(III)_Seawater_Health",
+            "Value": "169.1250"
+        },
+        {
+            "Category": "As(III)",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_As(III)_Unspecified_Health",
+            "Value": "2,270.7626"
+        },
+        {
+            "Category": "As(V)",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_As(V)_Freshwater_Health",
+            "Value": "2,270.7626"
+        },
+        {
+            "Category": "As(V)",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_As(V)_Seawater_Health",
+            "Value": "169.1250"
+        },
+        {
+            "Category": "As(V)",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_As(V)_Unspecified_Health",
+            "Value": "2,270.7626"
+        },
+        {
+            "Category": "Ba(II)",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Ba(II)_Freshwater_Health",
+            "Value": "31.9627"
+        },
+        {
+            "Category": "Ba(II)",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Ba(II)_Seawater_Health",
+            "Value": "12.9645"
+        },
+        {
+            "Category": "Ba(II)",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Ba(II)_Unspecified_Health",
+            "Value": "31.9627"
+        },
+        {
+            "Category": "Be(II)",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Be(II)_Freshwater_Health",
+            "Value": "0.0125"
+        },
+        {
+            "Category": "Be(II)",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Be(II)_Seawater_Health",
+            "Value": "0.0001"
+        },
+        {
+            "Category": "Be(II)",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Be(II)_Unspecified_Health",
+            "Value": "0.0125"
+        },
+        {
+            "Category": "Cd(II)",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Cd(II)_Freshwater_Health",
+            "Value": "338.3456"
+        },
+        {
+            "Category": "Cd(II)",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Cd(II)_Seawater_Health",
+            "Value": "46.3622"
+        },
+        {
+            "Category": "Cd(II)",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Cd(II)_Unspecified_Health",
+            "Value": "338.3456"
+        },
+        {
+            "Category": "Co(II)",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Co(II)_Freshwater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Co(II)",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Co(II)_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Co(II)",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Co(II)_Unspecified_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Cr(III)",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Cr(III)_Freshwater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Cr(III)",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Cr(III)_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Cr(III)",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Cr(III)_Unspecified_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Cr(VI)",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Cr(VI)_Freshwater_Health",
+            "Value": "4,131.9497"
+        },
+        {
+            "Category": "Cr(VI)",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Cr(VI)_Seawater_Health",
+            "Value": "107.1798"
+        },
+        {
+            "Category": "Cr(VI)",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Cr(VI)_Unspecified_Health",
+            "Value": "4,131.9497"
+        },
+        {
+            "Category": "Cu(II)",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Cu(II)_Freshwater_Health",
+            "Value": "0.0013"
+        },
+        {
+            "Category": "Cu(II)",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Cu(II)_Seawater_Health",
+            "Value": "0.0001"
+        },
+        {
+            "Category": "Cu(II)",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Cu(II)_Unspecified_Health",
+            "Value": "0.0013"
+        },
+        {
+            "Category": "Hg(II)",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Hg(II)_Freshwater_Health",
+            "Value": "675.9673"
+        },
+        {
+            "Category": "Hg(II)",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Hg(II)_Seawater_Health",
+            "Value": "74.9105"
+        },
+        {
+            "Category": "Hg(II)",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Hg(II)_Unspecified_Health",
+            "Value": "675.9673"
+        },
+        {
+            "Category": "Mo(VI)",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Mo(VI)_Freshwater_Health",
+            "Value": "6.3929"
+        },
+        {
+            "Category": "Mo(VI)",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Mo(VI)_Seawater_Health",
+            "Value": "0.0793"
+        },
+        {
+            "Category": "Mo(VI)",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Mo(VI)_Unspecified_Health",
+            "Value": "6.3929"
+        },
+        {
+            "Category": "Ni(II)",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Ni(II)_Freshwater_Health",
+            "Value": "62.5430"
+        },
+        {
+            "Category": "Ni(II)",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Ni(II)_Seawater_Health",
+            "Value": "4.7970"
+        },
+        {
+            "Category": "Ni(II)",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Ni(II)_Unspecified_Health",
+            "Value": "62.5430"
+        },
+        {
+            "Category": "Pb(II)",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Pb(II)_Freshwater_Health",
+            "Value": "0.4546"
+        },
+        {
+            "Category": "Pb(II)",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Pb(II)_Seawater_Health",
+            "Value": "0.0282"
+        },
+        {
+            "Category": "Pb(II)",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Pb(II)_Unspecified_Health",
+            "Value": "0.4546"
+        },
+        {
+            "Category": "Sb(III)",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Sb(III)_Freshwater_Health",
+            "Value": "34.0566"
+        },
+        {
+            "Category": "Sb(III)",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Sb(III)_Seawater_Health",
+            "Value": "1.7239"
+        },
+        {
+            "Category": "Sb(III)",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Sb(III)_Unspecified_Health",
+            "Value": "34.0566"
+        },
+        {
+            "Category": "Sb(V)",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Sb(V)_Freshwater_Health",
+            "Value": "34.0562"
+        },
+        {
+            "Category": "Sb(V)",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Sb(V)_Seawater_Health",
+            "Value": "1.7239"
+        },
+        {
+            "Category": "Sb(V)",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Sb(V)_Unspecified_Health",
+            "Value": "34.0562"
+        },
+        {
+            "Category": "Se(IV)",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Se(IV)_Freshwater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Se(IV)",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Se(IV)_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Se(IV)",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Se(IV)_Unspecified_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Tl(I)",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Tl(I)_Freshwater_Health",
+            "Value": "180.8883"
+        },
+        {
+            "Category": "Tl(I)",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Tl(I)_Seawater_Health",
+            "Value": "5.1150"
+        },
+        {
+            "Category": "Tl(I)",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Tl(I)_Unspecified_Health",
+            "Value": "180.8883"
+        },
+        {
+            "Category": "V(V)",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_V(V)_Freshwater_Health",
+            "Value": "19.0295"
+        },
+        {
+            "Category": "V(V)",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_V(V)_Seawater_Health",
+            "Value": "1.2403"
+        },
+        {
+            "Category": "V(V)",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_V(V)_Unspecified_Health",
+            "Value": "19.0295"
+        },
+        {
+            "Category": "Zn(II)",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Zn(II)_Freshwater_Health",
+            "Value": "12.6090"
+        },
+        {
+            "Category": "Zn(II)",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Zn(II)_Seawater_Health",
+            "Value": "2.3879"
+        },
+        {
+            "Category": "Zn(II)",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Zn(II)_Unspecified_Health",
+            "Value": "12.6090"
+        },
+        {
+            "Category": "1,2-dichlorobenzene",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_1,2-dichlorobenzene_Freshwater_Health",
+            "Value": "0.0069"
+        },
+        {
+            "Category": "1,2-dichlorobenzene",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_1,2-dichlorobenzene_Seawater_Health",
+            "Value": "0.0005"
+        },
+        {
+            "Category": "1,2-dichlorobenzene",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_1,2-dichlorobenzene_Unspecified_Health",
+            "Value": "0.0069"
+        },
+        {
+            "Category": "1,2-dichloroethane",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_1,2-dichloroethane_Freshwater_Health",
+            "Value": "0.9401"
+        },
+        {
+            "Category": "1,2-dichloroethane",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_1,2-dichloroethane_Seawater_Health",
+            "Value": "0.0588"
+        },
+        {
+            "Category": "1,2-dichloroethane",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_1,2-dichloroethane_Unspecified_Health",
+            "Value": "0.9401"
+        },
+        {
+            "Category": "1,2-DIMETHYL-5-NITRO-1H-IMIDAZOLE",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_1,2-DIMETHYL-5-NITRO-1H-IMIDAZOLE_Freshwater_Health",
+            "Value": "1.7011"
+        },
+        {
+            "Category": "1,2-DIMETHYL-5-NITRO-1H-IMIDAZOLE",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_1,2-DIMETHYL-5-NITRO-1H-IMIDAZOLE_Seawater_Health",
+            "Value": "0.0001"
+        },
+        {
+            "Category": "1,2-DIMETHYL-5-NITRO-1H-IMIDAZOLE",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_1,2-DIMETHYL-5-NITRO-1H-IMIDAZOLE_Unspecified_Health",
+            "Value": "1.7011"
+        },
+        {
+            "Category": "1,3-Dichloropropene",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_1,3-Dichloropropene_Freshwater_Health",
+            "Value": "5.9261"
+        },
+        {
+            "Category": "1,3-Dichloropropene",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_1,3-Dichloropropene_Seawater_Health",
+            "Value": "1.3257"
+        },
+        {
+            "Category": "1,3-Dichloropropene",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_1,3-Dichloropropene_Unspecified_Health",
+            "Value": "5.9261"
+        },
+        {
+            "Category": "1,4-dichlorobenzene",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_1,4-dichlorobenzene_Freshwater_Health",
+            "Value": "0.1412"
+        },
+        {
+            "Category": "1,4-dichlorobenzene",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_1,4-dichlorobenzene_Seawater_Health",
+            "Value": "0.0084"
+        },
+        {
+            "Category": "1,4-dichlorobenzene",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_1,4-dichlorobenzene_Unspecified_Health",
+            "Value": "0.1412"
+        },
+        {
+            "Category": "2-(2,4-dichlorophenoxy)acetic acid",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_2-(2,4-dichlorophenoxy)acetic acid_Freshwater_Health",
+            "Value": "0.3837"
+        },
+        {
+            "Category": "2-(2,4-dichlorophenoxy)acetic acid",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_2-(2,4-dichlorophenoxy)acetic acid_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "2-(2,4-dichlorophenoxy)acetic acid",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_2-(2,4-dichlorophenoxy)acetic acid_Unspecified_Health",
+            "Value": "0.3837"
+        },
+        {
+            "Category": "2,4,6-trichlorophenol",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_2,4,6-trichlorophenol_Freshwater_Health",
+            "Value": "0.1642"
+        },
+        {
+            "Category": "2,4,6-trichlorophenol",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_2,4,6-trichlorophenol_Seawater_Health",
+            "Value": "0.0001"
+        },
+        {
+            "Category": "2,4,6-trichlorophenol",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_2,4,6-trichlorophenol_Unspecified_Health",
+            "Value": "0.1642"
+        },
+        {
+            "Category": "2-CHLOROPHENOL",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_2-CHLOROPHENOL_Freshwater_Health",
+            "Value": "0.1060"
+        },
+        {
+            "Category": "2-CHLOROPHENOL",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_2-CHLOROPHENOL_Seawater_Health",
+            "Value": "0.0007"
+        },
+        {
+            "Category": "2-CHLOROPHENOL",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_2-CHLOROPHENOL_Unspecified_Health",
+            "Value": "0.1060"
+        },
+        {
+            "Category": "3-Methylcholanthrene",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_3-Methylcholanthrene_Freshwater_Health",
+            "Value": "23.7341"
+        },
+        {
+            "Category": "3-Methylcholanthrene",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_3-Methylcholanthrene_Seawater_Health",
+            "Value": "10.5374"
+        },
+        {
+            "Category": "3-Methylcholanthrene",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_3-Methylcholanthrene_Unspecified_Health",
+            "Value": "23.7341"
+        },
+        {
+            "Category": "4-CHLOROANILINE",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_4-CHLOROANILINE_Freshwater_Health",
+            "Value": "0.0277"
+        },
+        {
+            "Category": "4-CHLOROANILINE",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_4-CHLOROANILINE_Seawater_Health",
+            "Value": "0.0001"
+        },
+        {
+            "Category": "4-CHLOROANILINE",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_4-CHLOROANILINE_Unspecified_Health",
+            "Value": "0.0277"
+        },
+        {
+            "Category": "7,12-Dimethylbenz(a)anthracene",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_7,12-Dimethylbenz(a)anthracene_Freshwater_Health",
+            "Value": "1,241.4623"
+        },
+        {
+            "Category": "7,12-Dimethylbenz(a)anthracene",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_7,12-Dimethylbenz(a)anthracene_Seawater_Health",
+            "Value": "135.1066"
+        },
+        {
+            "Category": "7,12-Dimethylbenz(a)anthracene",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_7,12-Dimethylbenz(a)anthracene_Unspecified_Health",
+            "Value": "1,241.4623"
+        },
+        {
+            "Category": "Acenapthene",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Acenapthene_Freshwater_Health",
+            "Value": "2.7403"
+        },
+        {
+            "Category": "Acenapthene",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Acenapthene_Seawater_Health",
+            "Value": "0.0718"
+        },
+        {
+            "Category": "Acenapthene",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Acenapthene_Unspecified_Health",
+            "Value": "2.7403"
+        },
+        {
+            "Category": "ACEPHATE",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_ACEPHATE_Freshwater_Health",
+            "Value": "50.2296"
+        },
+        {
+            "Category": "ACEPHATE",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_ACEPHATE_Seawater_Health",
+            "Value": "0.0001"
+        },
+        {
+            "Category": "ACEPHATE",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_ACEPHATE_Unspecified_Health",
+            "Value": "50.2296"
+        },
+        {
+            "Category": "ACETAMIDE,",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_ACETAMIDE,_Freshwater_Health",
+            "Value": "0.0250"
+        },
+        {
+            "Category": "ACETAMIDE,",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_ACETAMIDE,_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "ACETAMIDE,",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_ACETAMIDE,_Unspecified_Health",
+            "Value": "0.0250"
+        },
+        {
+            "Category": "Albuterol",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Albuterol_Freshwater_Health",
+            "Value": "0.2559"
+        },
+        {
+            "Category": "Albuterol",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Albuterol_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Albuterol",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Albuterol_Unspecified_Health",
+            "Value": "0.2559"
+        },
+        {
+            "Category": "Aldicarb",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Aldicarb_Freshwater_Health",
+            "Value": "7.3992"
+        },
+        {
+            "Category": "Aldicarb",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Aldicarb_Seawater_Health",
+            "Value": "0.0001"
+        },
+        {
+            "Category": "Aldicarb",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Aldicarb_Unspecified_Health",
+            "Value": "7.3992"
+        },
+        {
+            "Category": "aniline",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_aniline_Freshwater_Health",
+            "Value": "0.2449"
+        },
+        {
+            "Category": "aniline",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_aniline_Seawater_Health",
+            "Value": "0.0005"
+        },
+        {
+            "Category": "aniline",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_aniline_Unspecified_Health",
+            "Value": "0.2449"
+        },
+        {
+            "Category": "anthracene",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_anthracene_Freshwater_Health",
+            "Value": "93.9753"
+        },
+        {
+            "Category": "anthracene",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_anthracene_Seawater_Health",
+            "Value": "7.8323"
+        },
+        {
+            "Category": "anthracene",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_anthracene_Unspecified_Health",
+            "Value": "93.9753"
+        },
+        {
+            "Category": "ANTIPYRINE",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_ANTIPYRINE_Freshwater_Health",
+            "Value": "0.0352"
+        },
+        {
+            "Category": "ANTIPYRINE",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_ANTIPYRINE_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "ANTIPYRINE",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_ANTIPYRINE_Unspecified_Health",
+            "Value": "0.0352"
+        },
+        {
+            "Category": "Atrazine",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Atrazine_Freshwater_Health",
+            "Value": "1.5706"
+        },
+        {
+            "Category": "Atrazine",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Atrazine_Seawater_Health",
+            "Value": "0.0001"
+        },
+        {
+            "Category": "Atrazine",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Atrazine_Unspecified_Health",
+            "Value": "1.5706"
+        },
+        {
+            "Category": "benzene",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_benzene_Freshwater_Health",
+            "Value": "0.1280"
+        },
+        {
+            "Category": "benzene",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_benzene_Seawater_Health",
+            "Value": "0.0141"
+        },
+        {
+            "Category": "benzene",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_benzene_Unspecified_Health",
+            "Value": "0.1280"
+        },
+        {
+            "Category": "Benzidine",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Benzidine_Freshwater_Health",
+            "Value": "3,113.4759"
+        },
+        {
+            "Category": "Benzidine",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Benzidine_Seawater_Health",
+            "Value": "0.0682"
+        },
+        {
+            "Category": "Benzidine",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Benzidine_Unspecified_Health",
+            "Value": "3,113.4759"
+        },
+        {
+            "Category": "benzo[a]pyrene",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_benzo[a]pyrene_Freshwater_Health",
+            "Value": "968.9198"
+        },
+        {
+            "Category": "benzo[a]pyrene",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_benzo[a]pyrene_Seawater_Health",
+            "Value": "69.7456"
+        },
+        {
+            "Category": "benzo[a]pyrene",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_benzo[a]pyrene_Unspecified_Health",
+            "Value": "968.9198"
+        },
+        {
+            "Category": "Bezafibrate",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Bezafibrate_Freshwater_Health",
+            "Value": "0.7213"
+        },
+        {
+            "Category": "Bezafibrate",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Bezafibrate_Seawater_Health",
+            "Value": "0.0003"
+        },
+        {
+            "Category": "Bezafibrate",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Bezafibrate_Unspecified_Health",
+            "Value": "0.7213"
+        },
+        {
+            "Category": "butyl benzyl phthalate ",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_butyl benzyl phthalate _Freshwater_Health",
+            "Value": "0.0214"
+        },
+        {
+            "Category": "butyl benzyl phthalate ",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_butyl benzyl phthalate _Seawater_Health",
+            "Value": "0.0004"
+        },
+        {
+            "Category": "butyl benzyl phthalate",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_butyl benzyl phthalate_Unspecified_Health",
+            "Value": "0.0214"
+        },
+        {
+            "Category": "Carbamazepine",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Carbamazepine_Freshwater_Health",
+            "Value": "0.1645"
+        },
+        {
+            "Category": "Carbamazepine",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Carbamazepine_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Carbamazepine",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Carbamazepine_Unspecified_Health",
+            "Value": "0.1645"
+        },
+        {
+            "Category": "chlorobenzene",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_chlorobenzene_Freshwater_Health",
+            "Value": "0.0394"
+        },
+        {
+            "Category": "chlorobenzene",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_chlorobenzene_Seawater_Health",
+            "Value": "0.0021"
+        },
+        {
+            "Category": "chlorobenzene",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_chlorobenzene_Unspecified_Health",
+            "Value": "0.0394"
+        },
+        {
+            "Category": "Chloropyrifos",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Chloropyrifos_Freshwater_Health",
+            "Value": "30.6772"
+        },
+        {
+            "Category": "Chloropyrifos",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Chloropyrifos_Seawater_Health",
+            "Value": "0.2409"
+        },
+        {
+            "Category": "Chloropyrifos",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Chloropyrifos_Unspecified_Health",
+            "Value": "30.6772"
+        },
+        {
+            "Category": "Chlorothalonil",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Chlorothalonil_Freshwater_Health",
+            "Value": "0.2853"
+        },
+        {
+            "Category": "Chlorothalonil",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Chlorothalonil_Seawater_Health",
+            "Value": "0.0027"
+        },
+        {
+            "Category": "Chlorothalonil",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Chlorothalonil_Unspecified_Health",
+            "Value": "0.2853"
+        },
+        {
+            "Category": "CYANAZINE",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_CYANAZINE_Freshwater_Health",
+            "Value": "16.3838"
+        },
+        {
+            "Category": "CYANAZINE",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_CYANAZINE_Seawater_Health",
+            "Value": "0.0017"
+        },
+        {
+            "Category": "CYANAZINE",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_CYANAZINE_Unspecified_Health",
+            "Value": "16.3838"
+        },
+        {
+            "Category": "CYPERMETHRIN",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_CYPERMETHRIN_Freshwater_Health",
+            "Value": "0.3052"
+        },
+        {
+            "Category": "CYPERMETHRIN",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_CYPERMETHRIN_Seawater_Health",
+            "Value": "0.0023"
+        },
+        {
+            "Category": "CYPERMETHRIN",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_CYPERMETHRIN_Unspecified_Health",
+            "Value": "0.3052"
+        },
+        {
+            "Category": "DEF",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_DEF_Freshwater_Health",
+            "Value": "5.4459"
+        },
+        {
+            "Category": "DEF",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_DEF_Seawater_Health",
+            "Value": "0.0066"
+        },
+        {
+            "Category": "DEF",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_DEF_Unspecified_Health",
+            "Value": "5.4459"
+        },
+        {
+            "Category": "di-(2-ethylhexyl)-phthalate (DEHP)",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_di-(2-ethylhexyl)-phthalate (DEHP)_Freshwater_Health",
+            "Value": "0.0652"
+        },
+        {
+            "Category": "di-(2-ethylhexyl)-phthalate (DEHP)",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_di-(2-ethylhexyl)-phthalate (DEHP)_Seawater_Health",
+            "Value": "0.0003"
+        },
+        {
+            "Category": "di-(2-ethylhexyl)-phthalate (DEHP)",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_di-(2-ethylhexyl)-phthalate (DEHP)_Unspecified_Health",
+            "Value": "0.0652"
+        },
+        {
+            "Category": "Diazinon",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Diazinon_Freshwater_Health",
+            "Value": "10.3897"
+        },
+        {
+            "Category": "Diazinon",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Diazinon_Seawater_Health",
+            "Value": "0.0048"
+        },
+        {
+            "Category": "Diazinon",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Diazinon_Unspecified_Health",
+            "Value": "10.3897"
+        },
+        {
+            "Category": "Dibenz(a,h)anthracene",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Dibenz(a,h)anthracene_Freshwater_Health",
+            "Value": "3,241.9209"
+        },
+        {
+            "Category": "Dibenz(a,h)anthracene",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Dibenz(a,h)anthracene_Seawater_Health",
+            "Value": "160.1920"
+        },
+        {
+            "Category": "Dibenz(a,h)anthracene",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Dibenz(a,h)anthracene_Unspecified_Health",
+            "Value": "3,241.9209"
+        },
+        {
+            "Category": "Dicamba",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Dicamba_Freshwater_Health",
+            "Value": "0.1646"
+        },
+        {
+            "Category": "Dicamba",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Dicamba_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Dicamba",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Dicamba_Unspecified_Health",
+            "Value": "0.1646"
+        },
+        {
+            "Category": "dichloromethane/methylenechloride (CH2Cl2) ",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_dichloromethane/methylenechloride (CH2Cl2) _Freshwater_Health",
+            "Value": "0.0656"
+        },
+        {
+            "Category": "dichloromethane/methylenechloride (CH2Cl2) ",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_dichloromethane/methylenechloride (CH2Cl2) _Seawater_Health",
+            "Value": "0.0062"
+        },
+        {
+            "Category": "dichloromethane/methylenechloride (CH2Cl2) ",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_dichloromethane/methylenechloride (CH2Cl2) _Unspecified_Health",
+            "Value": "0.0656"
+        },
+        {
+            "Category": "Diclofenac",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Diclofenac_Freshwater_Health",
+            "Value": "9.1130"
+        },
+        {
+            "Category": "Diclofenac",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Diclofenac_Seawater_Health",
+            "Value": "0.0030"
+        },
+        {
+            "Category": "Diclofenac",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Diclofenac_Unspecified_Health",
+            "Value": "9.1130"
+        },
+        {
+            "Category": "Dicrotophos",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Dicrotophos_Freshwater_Health",
+            "Value": "3.2192"
+        },
+        {
+            "Category": "Dicrotophos",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Dicrotophos_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Dicrotophos",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Dicrotophos_Unspecified_Health",
+            "Value": "3.2192"
+        },
+        {
+            "Category": "Ethephon",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Ethephon_Freshwater_Health",
+            "Value": "0.3677"
+        },
+        {
+            "Category": "Ethephon",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Ethephon_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Ethephon",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Ethephon_Unspecified_Health",
+            "Value": "0.3677"
+        },
+        {
+            "Category": "fluoranthene",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_fluoranthene_Freshwater_Health",
+            "Value": "26.4300"
+        },
+        {
+            "Category": "fluoranthene",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_fluoranthene_Seawater_Health",
+            "Value": "1.6809"
+        },
+        {
+            "Category": "fluoranthene",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_fluoranthene_Unspecified_Health",
+            "Value": "26.4300"
+        },
+        {
+            "Category": "fluorene",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_fluorene_Freshwater_Health",
+            "Value": "2.5325"
+        },
+        {
+            "Category": "fluorene",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_fluorene_Seawater_Health",
+            "Value": "0.1101"
+        },
+        {
+            "Category": "fluorene",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_fluorene_Unspecified_Health",
+            "Value": "2.5325"
+        },
+        {
+            "Category": "Fluvastatin",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Fluvastatin_Freshwater_Health",
+            "Value": "2.7406"
+        },
+        {
+            "Category": "Fluvastatin",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Fluvastatin_Seawater_Health",
+            "Value": "0.0009"
+        },
+        {
+            "Category": "Fluvastatin",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Fluvastatin_Unspecified_Health",
+            "Value": "2.7406"
+        },
+        {
+            "Category": "FUROSEMIDE",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_FUROSEMIDE_Freshwater_Health",
+            "Value": "0.1085"
+        },
+        {
+            "Category": "FUROSEMIDE",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_FUROSEMIDE_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "FUROSEMIDE",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_FUROSEMIDE_Unspecified_Health",
+            "Value": "0.1085"
+        },
+        {
+            "Category": "Gemfibrozil",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Gemfibrozil_Freshwater_Health",
+            "Value": "0.7856"
+        },
+        {
+            "Category": "Gemfibrozil",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Gemfibrozil_Seawater_Health",
+            "Value": "0.0002"
+        },
+        {
+            "Category": "Gemfibrozil",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Gemfibrozil_Unspecified_Health",
+            "Value": "0.7856"
+        },
+        {
+            "Category": "GLUFOSINATE-AMMONIUM",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_GLUFOSINATE-AMMONIUM_Freshwater_Health",
+            "Value": "0.1606"
+        },
+        {
+            "Category": "GLUFOSINATE-AMMONIUM",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_GLUFOSINATE-AMMONIUM_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "GLUFOSINATE-AMMONIUM",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_GLUFOSINATE-AMMONIUM_Unspecified_Health",
+            "Value": "0.1606"
+        },
+        {
+            "Category": "Glyphosate",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Glyphosate_Freshwater_Health",
+            "Value": "0.0104"
+        },
+        {
+            "Category": "Glyphosate",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Glyphosate_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Glyphosate",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Glyphosate_Unspecified_Health",
+            "Value": "0.0104"
+        },
+        {
+            "Category": "INDOMETHACIN",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_INDOMETHACIN_Freshwater_Health",
+            "Value": "162.0976"
+        },
+        {
+            "Category": "INDOMETHACIN",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_INDOMETHACIN_Seawater_Health",
+            "Value": "0.0484"
+        },
+        {
+            "Category": "INDOMETHACIN",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_INDOMETHACIN_Unspecified_Health",
+            "Value": "162.0976"
+        },
+        {
+            "Category": "Iopromide",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Iopromide_Freshwater_Health",
+            "Value": "0.0187"
+        },
+        {
+            "Category": "Iopromide",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Iopromide_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Iopromide",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Iopromide_Unspecified_Health",
+            "Value": "0.0187"
+        },
+        {
+            "Category": "Malathion",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Malathion_Freshwater_Health",
+            "Value": "0.0133"
+        },
+        {
+            "Category": "Malathion",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Malathion_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Malathion",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Malathion_Unspecified_Health",
+            "Value": "0.0133"
+        },
+        {
+            "Category": "Mancozeb",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Mancozeb_Freshwater_Health",
+            "Value": "0.1568"
+        },
+        {
+            "Category": "Mancozeb",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Mancozeb_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Mancozeb",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Mancozeb_Unspecified_Health",
+            "Value": "0.1568"
+        },
+        {
+            "Category": "Methyl Bromide",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Methyl Bromide_Freshwater_Health",
+            "Value": "0.6642"
+        },
+        {
+            "Category": "Methyl Bromide",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Methyl Bromide_Seawater_Health",
+            "Value": "0.0951"
+        },
+        {
+            "Category": "Methyl Bromide",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Methyl Bromide_Unspecified_Health",
+            "Value": "0.6642"
+        },
+        {
+            "Category": "Metolachlor",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Metolachlor_Freshwater_Health",
+            "Value": "0.0928"
+        },
+        {
+            "Category": "Metolachlor",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Metolachlor_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Metolachlor",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Metolachlor_Unspecified_Health",
+            "Value": "0.0928"
+        },
+        {
+            "Category": "Metoprolol",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Metoprolol_Freshwater_Health",
+            "Value": "0.0399"
+        },
+        {
+            "Category": "Metoprolol",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Metoprolol_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Metoprolol",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Metoprolol_Unspecified_Health",
+            "Value": "0.0399"
+        },
+        {
+            "Category": "METRONIDAZOLE",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_METRONIDAZOLE_Freshwater_Health",
+            "Value": "0.1017"
+        },
+        {
+            "Category": "METRONIDAZOLE",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_METRONIDAZOLE_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "METRONIDAZOLE",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_METRONIDAZOLE_Unspecified_Health",
+            "Value": "0.1017"
+        },
+        {
+            "Category": "Naled",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Naled_Freshwater_Health",
+            "Value": "1.5282"
+        },
+        {
+            "Category": "Naled",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Naled_Seawater_Health",
+            "Value": "0.0406"
+        },
+        {
+            "Category": "Naled",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Naled_Unspecified_Health",
+            "Value": "1.5282"
+        },
+        {
+            "Category": "NALIDIXIC ACID",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_NALIDIXIC ACID_Freshwater_Health",
+            "Value": "0.1444"
+        },
+        {
+            "Category": "NALIDIXIC ACID",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_NALIDIXIC ACID_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "NALIDIXIC ACID",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_NALIDIXIC ACID_Unspecified_Health",
+            "Value": "0.1444"
+        },
+        {
+            "Category": "naphthalene",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_naphthalene_Freshwater_Health",
+            "Value": "0.2484"
+        },
+        {
+            "Category": "naphthalene",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_naphthalene_Seawater_Health",
+            "Value": "0.0036"
+        },
+        {
+            "Category": "naphthalene",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_naphthalene_Unspecified_Health",
+            "Value": "0.2484"
+        },
+        {
+            "Category": "OXOLINIC ACID",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_OXOLINIC ACID_Freshwater_Health",
+            "Value": "0.1735"
+        },
+        {
+            "Category": "OXOLINIC ACID",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_OXOLINIC ACID_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "OXOLINIC ACID",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_OXOLINIC ACID_Unspecified_Health",
+            "Value": "0.1735"
+        },
+        {
+            "Category": "Paraquat",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Paraquat_Freshwater_Health",
+            "Value": "0.3997"
+        },
+        {
+            "Category": "Paraquat",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Paraquat_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Paraquat",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Paraquat_Unspecified_Health",
+            "Value": "0.3997"
+        },
+        {
+            "Category": "Parathion-methyl",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Parathion-methyl_Freshwater_Health",
+            "Value": "4.4653"
+        },
+        {
+            "Category": "Parathion-methyl",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Parathion-methyl_Seawater_Health",
+            "Value": "0.0015"
+        },
+        {
+            "Category": "Parathion-methyl",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Parathion-methyl_Unspecified_Health",
+            "Value": "4.4653"
+        },
+        {
+            "Category": "Pendimethalin",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Pendimethalin_Freshwater_Health",
+            "Value": "0.0447"
+        },
+        {
+            "Category": "Pendimethalin",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Pendimethalin_Seawater_Health",
+            "Value": "0.0003"
+        },
+        {
+            "Category": "Pendimethalin",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Pendimethalin_Unspecified_Health",
+            "Value": "0.0447"
+        },
+        {
+            "Category": "pentachlorophenol",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_pentachlorophenol_Freshwater_Health",
+            "Value": "11.7690"
+        },
+        {
+            "Category": "pentachlorophenol",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_pentachlorophenol_Seawater_Health",
+            "Value": "0.0149"
+        },
+        {
+            "Category": "pentachlorophenol",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_pentachlorophenol_Unspecified_Health",
+            "Value": "11.7690"
+        },
+        {
+            "Category": "Phorate",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Phorate_Freshwater_Health",
+            "Value": "4.8348"
+        },
+        {
+            "Category": "Phorate",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Phorate_Seawater_Health",
+            "Value": "0.0525"
+        },
+        {
+            "Category": "Phorate",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Phorate_Unspecified_Health",
+            "Value": "4.8348"
+        },
+        {
+            "Category": "Propanil",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Propanil_Freshwater_Health",
+            "Value": "0.3207"
+        },
+        {
+            "Category": "Propanil",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Propanil_Seawater_Health",
+            "Value": "0.0001"
+        },
+        {
+            "Category": "Propanil",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Propanil_Unspecified_Health",
+            "Value": "0.3207"
+        },
+        {
+            "Category": "pyrene",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_pyrene_Freshwater_Health",
+            "Value": "14.7072"
+        },
+        {
+            "Category": "pyrene",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_pyrene_Seawater_Health",
+            "Value": "2.8763"
+        },
+        {
+            "Category": "pyrene",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_pyrene_Unspecified_Health",
+            "Value": "14.7072"
+        },
+        {
+            "Category": "Pyrene, 1-nitro-",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Pyrene, 1-nitro-_Freshwater_Health",
+            "Value": "32.1661"
+        },
+        {
+            "Category": "Pyrene, 1-nitro-",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Pyrene, 1-nitro-_Seawater_Health",
+            "Value": "1.6100"
+        },
+        {
+            "Category": "Pyrene, 1-nitro-",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Pyrene, 1-nitro-_Unspecified_Health",
+            "Value": "32.1661"
+        },
+        {
+            "Category": "Sulfamethoxazole",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Sulfamethoxazole_Freshwater_Health",
+            "Value": "0.0341"
+        },
+        {
+            "Category": "Sulfamethoxazole",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Sulfamethoxazole_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Sulfamethoxazole",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Sulfamethoxazole_Unspecified_Health",
+            "Value": "0.0341"
+        },
+        {
+            "Category": "Terbutaline",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Terbutaline_Freshwater_Health",
+            "Value": "0.0257"
+        },
+        {
+            "Category": "Terbutaline",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Terbutaline_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Terbutaline",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Terbutaline_Unspecified_Health",
+            "Value": "0.0257"
+        },
+        {
+            "Category": "tetrachloroethylene",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_tetrachloroethylene_Freshwater_Health",
+            "Value": "0.3633"
+        },
+        {
+            "Category": "tetrachloroethylene",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_tetrachloroethylene_Seawater_Health",
+            "Value": "0.0431"
+        },
+        {
+            "Category": "tetrachloroethylene",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_tetrachloroethylene_Unspecified_Health",
+            "Value": "0.3633"
+        },
+        {
+            "Category": "THIABENDAZOLE",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_THIABENDAZOLE_Freshwater_Health",
+            "Value": "0.0877"
+        },
+        {
+            "Category": "THIABENDAZOLE",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_THIABENDAZOLE_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "THIABENDAZOLE",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_THIABENDAZOLE_Unspecified_Health",
+            "Value": "0.0877"
+        },
+        {
+            "Category": "TRI-2-CHLOROETHYL PHOSPHATE",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_TRI-2-CHLOROETHYL PHOSPHATE_Freshwater_Health",
+            "Value": "0.3628"
+        },
+        {
+            "Category": "TRI-2-CHLOROETHYL PHOSPHATE",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_TRI-2-CHLOROETHYL PHOSPHATE_Seawater_Health",
+            "Value": "0.0034"
+        },
+        {
+            "Category": "TRI-2-CHLOROETHYL PHOSPHATE",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_TRI-2-CHLOROETHYL PHOSPHATE_Unspecified_Health",
+            "Value": "0.3628"
+        },
+        {
+            "Category": "trichloroethylene",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_trichloroethylene_Freshwater_Health",
+            "Value": "0.0235"
+        },
+        {
+            "Category": "trichloroethylene",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_trichloroethylene_Seawater_Health",
+            "Value": "0.0017"
+        },
+        {
+            "Category": "trichloroethylene",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_trichloroethylene_Unspecified_Health",
+            "Value": "0.0235"
+        },
+        {
+            "Category": "trifluralin",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_trifluralin_Freshwater_Health",
+            "Value": "3.1304"
+        },
+        {
+            "Category": "trifluralin",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_trifluralin_Seawater_Health",
+            "Value": "0.2387"
+        },
+        {
+            "Category": "trifluralin",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_trifluralin_Unspecified_Health",
+            "Value": "3.1304"
+        },
+        {
+            "Category": "TRIMETHOPRIM",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_TRIMETHOPRIM_Freshwater_Health",
+            "Value": "0.2213"
+        },
+        {
+            "Category": "TRIMETHOPRIM",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_TRIMETHOPRIM_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "TRIMETHOPRIM",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_TRIMETHOPRIM_Unspecified_Health",
+            "Value": "0.2213"
+        },
+        {
+            "Category": "Tris (2,3-dibromopropyl) phosphate",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Tris (2,3-dibromopropyl) phosphate_Freshwater_Health",
+            "Value": "8.9325"
+        },
+        {
+            "Category": "Tris (2,3-dibromopropyl) phosphate",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Tris (2,3-dibromopropyl) phosphate_Seawater_Health",
+            "Value": "0.7005"
+        },
+        {
+            "Category": "Tris (2,3-dibromopropyl) phosphate",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Tris (2,3-dibromopropyl) phosphate_Unspecified_Health",
+            "Value": "8.9325"
+        },
+        {
+            "Category": "trrichloromethane/chloroform (CHCl3)",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_trrichloromethane/chloroform (CHCl3)_Freshwater_Health",
+            "Value": "0.2350"
+        },
+        {
+            "Category": "trrichloromethane/chloroform (CHCl3)",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_trrichloromethane/chloroform (CHCl3)_Seawater_Health",
+            "Value": "0.0176"
+        },
+        {
+            "Category": "trrichloromethane/chloroform (CHCl3)",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_trrichloromethane/chloroform (CHCl3)_Unspecified_Health",
+            "Value": "0.2350"
+        },
+        {
+            "Category": "Warfarin",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Warfarin_Freshwater_Health",
+            "Value": "28.3392"
+        },
+        {
+            "Category": "Warfarin",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Warfarin_Seawater_Health",
+            "Value": "0.0011"
+        },
+        {
+            "Category": "Warfarin",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Warfarin_Unspecified_Health",
+            "Value": "28.3392"
+        },
+        {
+            "Category": "PAHs",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_PAHs_Freshwater_Health",
+            "Value": "513.5306"
+        },
+        {
+            "Category": "PAHs",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_PAHs_Seawater_Health",
+            "Value": "35.4333"
+        },
+        {
+            "Category": "PAHs",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_PAHs_Unspecified_Health",
+            "Value": "513.5306"
+        },
+        {
+            "Category": "Pesticides",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Pesticides_Freshwater_Health",
+            "Value": "1.5225"
+        },
+        {
+            "Category": "Pesticides",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Pesticides_Seawater_Health",
+            "Value": "0.1027"
+        },
+        {
+            "Category": "Pesticides",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Pesticides_Unspecified_Health",
+            "Value": "1.5225"
+        },
+        {
+            "Category": "Antimony",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Antimony_Freshwater_Health",
+            "Value": "34.0564"
+        },
+        {
+            "Category": "Antimony",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Antimony_Seawater_Health",
+            "Value": "1.7239"
+        },
+        {
+            "Category": "Antimony",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Antimony_Unspecified_Health",
+            "Value": "34.0564"
+        },
+        {
+            "Category": "Arsenic",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Arsenic_Freshwater_Health",
+            "Value": "2,270.7626"
+        },
+        {
+            "Category": "Arsenic",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Arsenic_Seawater_Health",
+            "Value": "169.1250"
+        },
+        {
+            "Category": "Arsenic",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Arsenic_Unspecified_Health",
+            "Value": "2,270.7626"
+        },
+        {
+            "Category": "Barium",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Barium_Freshwater_Health",
+            "Value": "31.9627"
+        },
+        {
+            "Category": "Barium",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Barium_Seawater_Health",
+            "Value": "12.9645"
+        },
+        {
+            "Category": "Barium",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Barium_Unspecified_Health",
+            "Value": "31.9627"
+        },
+        {
+            "Category": "Beryllium",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Beryllium_Freshwater_Health",
+            "Value": "0.0125"
+        },
+        {
+            "Category": "Beryllium",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Beryllium_Seawater_Health",
+            "Value": "0.0001"
+        },
+        {
+            "Category": "Beryllium",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Beryllium_Unspecified_Health",
+            "Value": "0.0125"
+        },
+        {
+            "Category": "Cadmium",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Cadmium_Freshwater_Health",
+            "Value": "338.3456"
+        },
+        {
+            "Category": "Cadmium",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Cadmium_Seawater_Health",
+            "Value": "46.3622"
+        },
+        {
+            "Category": "Cadmium",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Cadmium_Unspecified_Health",
+            "Value": "338.3456"
+        },
+        {
+            "Category": "Chromium",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Chromium_Freshwater_Health",
+            "Value": "578.4730"
+        },
+        {
+            "Category": "Chromium",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Chromium_Seawater_Health",
+            "Value": "15.0052"
+        },
+        {
+            "Category": "Chromium",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Chromium_Unspecified_Health",
+            "Value": "578.4730"
+        },
+        {
+            "Category": "Cobalt",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Cobalt_Freshwater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Cobalt",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Cobalt_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Cobalt",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Cobalt_Unspecified_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Copper",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Copper_Freshwater_Health",
+            "Value": "0.0013"
+        },
+        {
+            "Category": "Copper",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Copper_Seawater_Health",
+            "Value": "0.0001"
+        },
+        {
+            "Category": "Copper",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Copper_Unspecified_Health",
+            "Value": "0.0013"
+        },
+        {
+            "Category": "Lead",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Lead_Freshwater_Health",
+            "Value": "0.4546"
+        },
+        {
+            "Category": "Lead",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Lead_Seawater_Health",
+            "Value": "0.0282"
+        },
+        {
+            "Category": "Lead",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Lead_Unspecified_Health",
+            "Value": "0.4546"
+        },
+        {
+            "Category": "Mercury",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Mercury_Freshwater_Health",
+            "Value": "675.9673"
+        },
+        {
+            "Category": "Mercury",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Mercury_Seawater_Health",
+            "Value": "74.9105"
+        },
+        {
+            "Category": "Mercury",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Mercury_Unspecified_Health",
+            "Value": "675.9673"
+        },
+        {
+            "Category": "Molybdenum",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Molybdenum_Freshwater_Health",
+            "Value": "6.3929"
+        },
+        {
+            "Category": "Molybdenum",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Molybdenum_Seawater_Health",
+            "Value": "0.0793"
+        },
+        {
+            "Category": "Molybdenum",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Molybdenum_Unspecified_Health",
+            "Value": "6.3929"
+        },
+        {
+            "Category": "Nickel",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Nickel_Freshwater_Health",
+            "Value": "62.5430"
+        },
+        {
+            "Category": "Nickel",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Nickel_Seawater_Health",
+            "Value": "4.7970"
+        },
+        {
+            "Category": "Nickel",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Nickel_Unspecified_Health",
+            "Value": "62.5430"
+        },
+        {
+            "Category": "Silver",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Silver_Freshwater_Health",
+            "Value": "20.0716"
+        },
+        {
+            "Category": "Silver",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Silver_Seawater_Health",
+            "Value": "0.7926"
+        },
+        {
+            "Category": "Silver",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Silver_Unspecified_Health",
+            "Value": "20.0716"
+        },
+        {
+            "Category": "Thallium",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Thallium_Freshwater_Health",
+            "Value": "180.8883"
+        },
+        {
+            "Category": "Thallium",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Thallium_Seawater_Health",
+            "Value": "5.1150"
+        },
+        {
+            "Category": "Thallium",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Thallium_Unspecified_Health",
+            "Value": "180.8883"
+        },
+        {
+            "Category": "Vanadium",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Vanadium_Freshwater_Health",
+            "Value": "19.0295"
+        },
+        {
+            "Category": "Vanadium",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Vanadium_Seawater_Health",
+            "Value": "1.2403"
+        },
+        {
+            "Category": "Vanadium",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Vanadium_Unspecified_Health",
+            "Value": "19.0295"
+        },
+        {
+            "Category": "Zinc",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Zinc_Freshwater_Health",
+            "Value": "12.6090"
+        },
+        {
+            "Category": "Zinc",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Zinc_Seawater_Health",
+            "Value": "2.3879"
+        },
+        {
+            "Category": "Zinc",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Zinc_Unspecified_Health",
+            "Value": "12.6090"
+        },
+        {
+            "Category": "Analgesics, anesthetics & NSAIDs",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Analgesics, anesthetics & NSAIDs_Freshwater_Health",
+            "Value": "42.8177"
+        },
+        {
+            "Category": "Analgesics, anesthetics & NSAIDs",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Analgesics, anesthetics & NSAIDs_Seawater_Health",
+            "Value": "0.0129"
+        },
+        {
+            "Category": "Analgesics, anesthetics & NSAIDs",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Analgesics, anesthetics & NSAIDs_Unspecified_Health",
+            "Value": "42.8177"
+        },
+        {
+            "Category": "Antibiotics",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Antibiotics_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Antibiotics",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Antibiotics_Unspecified_Health",
+            "Value": "0.3431"
+        },
+        {
+            "Category": "Anticoagulants",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Anticoagulants_Freshwater_Health",
+            "Value": "28.3392"
+        },
+        {
+            "Category": "Anticoagulants",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Anticoagulants_Seawater_Health",
+            "Value": "0.0011"
+        },
+        {
+            "Category": "Anticoagulants",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Anticoagulants_Unspecified_Health",
+            "Value": "28.3392"
+        },
+        {
+            "Category": "Antihelminthics",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Antihelminthics_Freshwater_Health",
+            "Value": "0.0877"
+        },
+        {
+            "Category": "Antihelminthics",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Antihelminthics_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Antihelminthics",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Antihelminthics_Unspecified_Health",
+            "Value": "0.0877"
+        },
+        {
+            "Category": "Antihyperlipidemic agents",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Antihyperlipidemic agents_Freshwater_Health",
+            "Value": "1.4158"
+        },
+        {
+            "Category": "Antihyperlipidemic agents",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Antihyperlipidemic agents_Seawater_Health",
+            "Value": "0.0005"
+        },
+        {
+            "Category": "Antihyperlipidemic agents",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Antihyperlipidemic agents_Unspecified_Health",
+            "Value": "1.4158"
+        },
+        {
+            "Category": "Beta-agonists",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Beta-agonists_Freshwater_Health",
+            "Value": "0.2559"
+        },
+        {
+            "Category": "Beta-agonists",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Beta-agonists_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Beta-agonists",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Beta-agonists_Unspecified_Health",
+            "Value": "0.2559"
+        },
+        {
+            "Category": "Beta-blockers",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Beta-blockers_Freshwater_Health",
+            "Value": "0.0399"
+        },
+        {
+            "Category": "Beta-blockers",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Beta-blockers_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Beta-blockers",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Beta-blockers_Unspecified_Health",
+            "Value": "0.0399"
+        },
+        {
+            "Category": "Contrast agents",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Contrast agents_Freshwater_Health",
+            "Value": "0.0187"
+        },
+        {
+            "Category": "Contrast agents",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Contrast agents_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Contrast agents",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Contrast agents_Unspecified_Health",
+            "Value": "0.0187"
+        },
+        {
+            "Category": "Diuretics",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Diuretics_Freshwater_Health",
+            "Value": "0.1085"
+        },
+        {
+            "Category": "Diuretics",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Diuretics_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Diuretics",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Diuretics_Unspecified_Health",
+            "Value": "0.1085"
+        },
+        {
+            "Category": "Psychiatric drugs",
+            "Location": "Freshwater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Psychiatric drugs_Freshwater_Health",
+            "Value": "0.1645"
+        },
+        {
+            "Category": "Psychiatric drugs",
+            "Location": "Seawater",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Psychiatric drugs_Seawater_Health",
+            "Value": "0.0000"
+        },
+        {
+            "Category": "Psychiatric drugs",
+            "Location": "Unspecified",
+            "Impact": "Health",
+            "Units": "/kg",
+            "Reference": "Water Pollution_Psychiatric drugs_Unspecified_Health",
+            "Value": "0.1645"
+        }
+    ]
+}

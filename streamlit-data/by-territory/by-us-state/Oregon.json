@@ -1,0 +1,237 @@
+{
+    "territory": "Oregon",
+    "data": [
+        {
+            "Category": "PM2.5",
+            "Location": "Urban",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_PM2.5_Urban_Primary Health",
+            "Value": "27,571.73"
+        },
+        {
+            "Category": "PM2.5",
+            "Location": "Peri-Urban",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_PM2.5_Peri-Urban_Primary Health",
+            "Value": "21,994.72"
+        },
+        {
+            "Category": "PM2.5",
+            "Location": "Rural",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_PM2.5_Rural_Primary Health",
+            "Value": "8,919.76"
+        },
+        {
+            "Category": "PM2.5",
+            "Location": "Transport",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_PM2.5_Transport_Primary Health",
+            "Value": "20,413.78"
+        },
+        {
+            "Category": "PM2.5",
+            "Location": "N/A for PM2.5",
+            "Impact": "Visibility",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_PM2.5_N/A for PM2.5_Visibility",
+            "Value": "14.98"
+        },
+        {
+            "Category": "SOx",
+            "Location": "Urban",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_SOx_Urban_Primary Health",
+            "Value": "9,279.35"
+        },
+        {
+            "Category": "SOx",
+            "Location": "Peri-Urban",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_SOx_Peri-Urban_Primary Health",
+            "Value": "7,890.56"
+        },
+        {
+            "Category": "SOx",
+            "Location": "Rural",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_SOx_Rural_Primary Health",
+            "Value": "3,036.58"
+        },
+        {
+            "Category": "SOx",
+            "Location": "Transport",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_SOx_Transport_Primary Health",
+            "Value": "7,076.58"
+        },
+        {
+            "Category": "SOx",
+            "Location": "N/A for SOx",
+            "Impact": "Visibility",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_SOx_N/A for SOx_Visibility",
+            "Value": "34.95"
+        },
+        {
+            "Category": "NH3",
+            "Location": "Urban",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_NH3_Urban_Primary Health",
+            "Value": "8,271.52"
+        },
+        {
+            "Category": "NH3",
+            "Location": "Peri-Urban",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_NH3_Peri-Urban_Primary Health",
+            "Value": "6,598.42"
+        },
+        {
+            "Category": "NH3",
+            "Location": "Rural",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_NH3_Rural_Primary Health",
+            "Value": "2,675.93"
+        },
+        {
+            "Category": "NH3",
+            "Location": "Transport",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_NH3_Transport_Primary Health",
+            "Value": "6,124.13"
+        },
+        {
+            "Category": "NH3",
+            "Location": "N/A for NH3",
+            "Impact": "Visibility",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_NH3_N/A for NH3_Visibility",
+            "Value": "37.47"
+        },
+        {
+            "Category": "PM10",
+            "Location": "Urban",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_PM10_Urban_Primary Health",
+            "Value": "132.69"
+        },
+        {
+            "Category": "PM10",
+            "Location": "Peri-Urban",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_PM10_Peri-Urban_Primary Health",
+            "Value": "110.10"
+        },
+        {
+            "Category": "PM10",
+            "Location": "Rural",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_PM10_Rural_Primary Health",
+            "Value": "47.52"
+        },
+        {
+            "Category": "PM10",
+            "Location": "Transport",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_PM10_Transport_Primary Health",
+            "Value": "100.85"
+        },
+        {
+            "Category": "PM10",
+            "Location": "N/A for PM10",
+            "Impact": "Visibility",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_PM10_N/A for PM10_Visibility",
+            "Value": "49.77"
+        },
+        {
+            "Category": "NOx",
+            "Location": "Urban",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_NOx_Urban_Primary Health",
+            "Value": "2,650.98"
+        },
+        {
+            "Category": "NOx",
+            "Location": "Peri-Urban",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_NOx_Peri-Urban_Primary Health",
+            "Value": "2,238.87"
+        },
+        {
+            "Category": "NOx",
+            "Location": "Rural",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_NOx_Rural_Primary Health",
+            "Value": "966.99"
+        },
+        {
+            "Category": "NOx",
+            "Location": "Transport",
+            "Impact": "Primary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_NOx_Transport_Primary Health",
+            "Value": "1,922.39"
+        },
+        {
+            "Category": "NOx",
+            "Location": "N/A for NOx",
+            "Impact": "Agriculture",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_NOx_N/A for NOx_Agriculture",
+            "Value": "41.85"
+        },
+        {
+            "Category": "NOx",
+            "Location": "N/A for NOx",
+            "Impact": "Visibility",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_NOx_N/A for NOx_Visibility",
+            "Value": "13.93"
+        },
+        {
+            "Category": "VOC",
+            "Location": "N/A for VOC",
+            "Impact": "Secondary Health",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_VOC_N/A for VOC_Secondary Health",
+            "Value": "19.58"
+        },
+        {
+            "Category": "VOC",
+            "Location": "N/A for VOC",
+            "Impact": "Visibility",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_VOC_N/A for VOC_Visibility",
+            "Value": "6.06"
+        },
+        {
+            "Category": "VOC",
+            "Location": "N/A for VOC",
+            "Impact": "Agriculture",
+            "Units": "/metric ton",
+            "Reference": "Air Pollution_VOC_N/A for VOC_Agriculture",
+            "Value": "21.65"
+        }
+    ]
+}
