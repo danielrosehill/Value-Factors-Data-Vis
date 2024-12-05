@@ -1,3 +1,9 @@
 {
-    "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${profileName}${separator}${appName}${separator}[Branch: main]"
+    "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${profileName}${separator}${appName}${separator}[Branch: main]",
+    "favorites.resources": [
+        {
+            "filePath": "data/Data/GVFD-Deriv/data/by-methodology/air-pollution",
+            "group": "Default"
+        }
+    ]
 }
