@@ -1,8 +1,11 @@
- # Streamlit App Deployment for IFVI Value Factors Visualization (Non-Official)
+ # Streamlit Deployment Repository: IFVI Value Factors Visualization Tool (Non-Official)
 
  ![alt text](screenshots/v1/1.png)
 
  [![View on Streamlit](https://img.shields.io/badge/View_on-Streamlit-brightgreen)](https://valuefactorsddatavis.streamlit.app/)
+
+ *Data source (as submodule)*
+ [![Value Factors Explorer](https://img.shields.io/badge/Value%20Factors%20Explorer-blue)](https://github.com/danielrosehill/Global-Value-Factors-Explorer)
 
 Welcome to the deployment repository for the **Streamlit app** that visualizes the value factors released by the International Foundation for Valuing Impacts (IFVI). This app provides an interactive interface for exploring these value factors, allowing users to filter by country and explore them by category.
 
@@ -46,7 +49,7 @@ To run this Streamlit app locally or deploy it on your preferred platform, follo
    streamlit run app.py
    ```
 
-## Screenshots
+## Screenshots - Exploring Air Pollution Data
 
 ![alt text](screenshots/v1/1.png)
 
