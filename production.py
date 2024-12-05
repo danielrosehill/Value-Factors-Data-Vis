@@ -14,7 +14,20 @@ file_paths = {
 
 # Sidebar for file selection
 st.sidebar.title("Select Data")
+
+# Choose a dataset option
 selected_file = st.sidebar.selectbox("Choose a dataset", list(file_paths.values()))
+
+# Add markdown badges
+st.sidebar.markdown("[![View repo on GitHub](https://img.shields.io/badge/View%20repo-GitHub-blue?style=flat-square)](https://github.com/danielrosehill/Value-Factors-Data-Vis)")
+st.sidebar.markdown("[![IFVI Website](https://img.shields.io/badge/IFVI-Website-blue?style=flat-square)](https://ifvi.org)")
+
+# Expandable items
+with st.sidebar.expander("About this data"):
+    st.write("This app is a non-official visualization of the value factors released by the International Foundation for Valuing Impact in 2024.")
+
+with st.sidebar.expander("Created by"):
+    st.markdown("[Daniel Rosehill](https://danielrosehill.com)")
 
 # Map the human-readable name back to the file path
 selected_file_path = [key for key, value in file_paths.items() if value == selected_file][0]
@@ -40,6 +53,9 @@ filtered_data = data[(data['Country'] == country) & (data['Impact'] == impact)]
 # Further filter data by category if a specific category is selected
 if category != 'All':
     filtered_data = filtered_data[filtered_data['Category'] == category]
+
+# Ensure the 'Value' column is treated as a string before using the .str accessor
+filtered_data['Value'] = filtered_data['Value'].astype(str)
 
 # Remove commas and convert the 'Value' column to numeric
 filtered_data['Value'] = pd.to_numeric(filtered_data['Value'].str.replace(',', ''), errors='coerce')
